@@ -145,10 +145,10 @@ streamlit run app.py
 
 ## Key Design Decisions
 
--Stratified sampling used to handle imbalance
+- Stratified sampling used to handle imbalance
 
--F1-score optimized instead of accuracy
+- F1-score optimized instead of accuracy
 
--Median imputation for missing values
+- Median imputation for missing values
 
--Scaling applied after split to avoid data leakage
+- Scaling applied after split to avoid data leakage
